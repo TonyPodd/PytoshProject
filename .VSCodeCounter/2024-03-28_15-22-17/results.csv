@@ -1,0 +1,24 @@
+"filename", "language", "Python", "HTML", "comment", "blank", "total"
+"c:\Users\a_nto\OneDrive\Рабочий стол\NEW\build\main\xref-main.html", "HTML", 0, 92379, 0, 15236, 107615
+"c:\Users\a_nto\OneDrive\Рабочий стол\NEW\database\сreate_db.py", "Python", 81, 0, 0, 6, 87
+"c:\Users\a_nto\OneDrive\Рабочий стол\NEW\requests\config.py", "Python", 2, 0, 0, 1, 3
+"c:\Users\a_nto\OneDrive\Рабочий стол\NEW\requests\req.py", "Python", 42, 0, 0, 17, 59
+"c:\Users\a_nto\OneDrive\Рабочий стол\NEW\temp_code.py", "Python", 7, 0, 0, 1, 8
+"c:\Users\a_nto\OneDrive\Рабочий стол\NEW\tests\test.py", "Python", 1, 0, 0, 0, 1
+"c:\Users\a_nto\OneDrive\Рабочий стол\NEW\ui\account_page.py", "Python", 291, 0, 199, 50, 540
+"c:\Users\a_nto\OneDrive\Рабочий стол\NEW\ui\app.py", "Python", 572, 0, 19, 78, 669
+"c:\Users\a_nto\OneDrive\Рабочий стол\NEW\ui\config.py", "Python", 5, 0, 15, 5, 25
+"c:\Users\a_nto\OneDrive\Рабочий стол\NEW\ui\db.py", "Python", 178, 0, 28, 45, 251
+"c:\Users\a_nto\OneDrive\Рабочий стол\NEW\ui\example_1.py", "Python", 104, 0, 9, 57, 170
+"c:\Users\a_nto\OneDrive\Рабочий стол\NEW\ui\example_3.py", "Python", 31, 0, 0, 8, 39
+"c:\Users\a_nto\OneDrive\Рабочий стол\NEW\ui\example_5.py", "Python", 570, 0, 4, 72, 646
+"c:\Users\a_nto\OneDrive\Рабочий стол\NEW\ui\execute_code.py", "Python", 21, 0, 3, 5, 29
+"c:\Users\a_nto\OneDrive\Рабочий стол\NEW\ui\groups_editor.py", "Python", 274, 0, 27, 50, 351
+"c:\Users\a_nto\OneDrive\Рабочий стол\NEW\ui\main.py", "Python", 5678, 0, 216, 637, 6531
+"c:\Users\a_nto\OneDrive\Рабочий стол\NEW\ui\req.py", "Python", 41, 0, 0, 17, 58
+"c:\Users\a_nto\OneDrive\Рабочий стол\NEW\ui\some.py", "Python", 30, 0, 0, 6, 36
+"c:\Users\a_nto\OneDrive\Рабочий стол\NEW\ui\task.py", "Python", 714, 0, 65, 79, 858
+"c:\Users\a_nto\OneDrive\Рабочий стол\NEW\ui\temp_code.py", "Python", 14, 0, 0, 6, 20
+"c:\Users\a_nto\OneDrive\Рабочий стол\NEW\ui\test.py", "Python", 3, 0, 0, 1, 4
+"c:\Users\a_nto\OneDrive\Рабочий стол\NEW\ui\wert.py", "Python", 1652, 0, 56, 121, 1829
+"Total", "-", 10311, 92379, 641, 16498, 119829

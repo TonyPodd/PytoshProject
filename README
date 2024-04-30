@@ -1,0 +1,11 @@
+Пожалуйста, для вашего удобсва, перед запуском проекта из консоли поменяйте хостинг на локальный(необходима установка mysql) в файле database/config.py
+
+```python
+host = "localhost"
+user = "root"
+password = "224413392244Fawl"
+name = "data"
+uri = "mysql+mysqlconnector://root:224413392244Fawl@localhost/data"
+```
+
+это позволит вам получить более приятный опыт при использовании Pytosh

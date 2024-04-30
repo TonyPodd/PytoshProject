@@ -1,0 +1,53 @@
+Date : 2024-03-28 13:26:45
+Directory : c:\Users\a_nto\OneDrive\Рабочий стол\NEW
+Total : 21 files,  102687 codes, 641 comments, 16497 blanks, all 119825 lines
+
+Languages
++----------+------------+------------+------------+------------+------------+
+| language | files      | code       | comment    | blank      | total      |
++----------+------------+------------+------------+------------+------------+
+| HTML     |          1 |     92,379 |          0 |     15,236 |    107,615 |
+| Python   |         20 |     10,308 |        641 |      1,261 |     12,210 |
++----------+------------+------------+------------+------------+------------+
+
+Directories
++--------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                               | files      | code       | comment    | blank      | total      |
++--------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                  |         21 |    102,687 |        641 |     16,497 |    119,825 |
+| . (Files)                                                          |          1 |          7 |          0 |          1 |          8 |
+| build                                                              |          1 |     92,379 |          0 |     15,236 |    107,615 |
+| build\main                                                         |          1 |     92,379 |          0 |     15,236 |    107,615 |
+| database                                                           |          1 |         81 |          0 |          6 |         87 |
+| requests                                                           |          2 |         44 |          0 |         18 |         62 |
+| tests                                                              |          1 |          1 |          0 |          0 |          1 |
+| ui                                                                 |         15 |     10,175 |        641 |      1,236 |     12,052 |
++--------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++--------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| filename                                                           | language | code       | comment    | blank      | total      |
++--------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| c:\Users\a_nto\OneDrive\Рабочий стол\NEW\build\main\xref-main.html | HTML     |     92,379 |          0 |     15,236 |    107,615 |
+| c:\Users\a_nto\OneDrive\Рабочий стол\NEW\database\сreate_db.py     | Python   |         81 |          0 |          6 |         87 |
+| c:\Users\a_nto\OneDrive\Рабочий стол\NEW\requests\config.py        | Python   |          2 |          0 |          1 |          3 |
+| c:\Users\a_nto\OneDrive\Рабочий стол\NEW\requests\req.py           | Python   |         42 |          0 |         17 |         59 |
+| c:\Users\a_nto\OneDrive\Рабочий стол\NEW\temp_code.py              | Python   |          7 |          0 |          1 |          8 |
+| c:\Users\a_nto\OneDrive\Рабочий стол\NEW\tests\test.py             | Python   |          1 |          0 |          0 |          1 |
+| c:\Users\a_nto\OneDrive\Рабочий стол\NEW\ui\account_page.py        | Python   |        291 |        199 |         50 |        540 |
+| c:\Users\a_nto\OneDrive\Рабочий стол\NEW\ui\app.py                 | Python   |        572 |         19 |         78 |        669 |
+| c:\Users\a_nto\OneDrive\Рабочий стол\NEW\ui\config.py              | Python   |          5 |         15 |          5 |         25 |
+| c:\Users\a_nto\OneDrive\Рабочий стол\NEW\ui\db.py                  | Python   |        178 |         28 |         45 |        251 |
+| c:\Users\a_nto\OneDrive\Рабочий стол\NEW\ui\example_1.py           | Python   |        104 |          9 |         57 |        170 |
+| c:\Users\a_nto\OneDrive\Рабочий стол\NEW\ui\example_3.py           | Python   |         31 |          0 |          8 |         39 |
+| c:\Users\a_nto\OneDrive\Рабочий стол\NEW\ui\example_5.py           | Python   |        570 |          4 |         72 |        646 |
+| c:\Users\a_nto\OneDrive\Рабочий стол\NEW\ui\execute_code.py        | Python   |         21 |          3 |          5 |         29 |
+| c:\Users\a_nto\OneDrive\Рабочий стол\NEW\ui\groups_editor.py       | Python   |        274 |         27 |         50 |        351 |
+| c:\Users\a_nto\OneDrive\Рабочий стол\NEW\ui\main.py                | Python   |      5,678 |        216 |        637 |      6,531 |
+| c:\Users\a_nto\OneDrive\Рабочий стол\NEW\ui\req.py                 | Python   |         41 |          0 |         17 |         58 |
+| c:\Users\a_nto\OneDrive\Рабочий стол\NEW\ui\some.py                | Python   |         30 |          0 |          6 |         36 |
+| c:\Users\a_nto\OneDrive\Рабочий стол\NEW\ui\task.py                | Python   |        714 |         65 |         79 |        858 |
+| c:\Users\a_nto\OneDrive\Рабочий стол\NEW\ui\temp_code.py           | Python   |         14 |          0 |          6 |         20 |
+| c:\Users\a_nto\OneDrive\Рабочий стол\NEW\ui\wert.py                | Python   |      1,652 |         56 |        121 |      1,829 |
+| Total                                                              |          |    102,687 |        641 |     16,497 |    119,825 |
++--------------------------------------------------------------------+----------+------------+------------+------------+------------+
